@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="europe">#008a00</color>
+    <color name="africa">#e3c800</color>
+    <color name="asia">#e61204</color>
+    <color name="north_america">#a0522c</color>
+    <color name="south_america">#f96a00</color>
+    <color name="australia">#6b00ff</color>
+    <color name="antarctica">#1ba0e2</color>
+
+</resources>
