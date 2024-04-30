@@ -1,0 +1,226 @@
+[
+  {
+    "name": "Lion",
+    "continent": "Africa"
+  },
+  {
+    "name": "Polar Bear",
+    "continent": "Antarctica"
+  },
+  {
+    "name": "Kangaroo",
+    "continent": "Australia"
+  },
+  {
+    "name": "Bald Eagle",
+    "continent": "North America"
+  },
+  {
+    "name": "Panda",
+    "continent": "Asia"
+  },
+  {
+    "name": "Frogmouth",
+    "continent": "South America"
+  },
+  {
+    "name": "Reindeer",
+    "continent": "Europe"
+  },
+  {
+    "name": "Giraffe",
+    "continent": "Africa"
+  },
+  {
+    "name": "Penguin",
+    "continent": "Antarctica"
+  },
+  {
+    "name": "Koala",
+    "continent": "Australia"
+  },
+  {
+    "name": "Grizzly Bear",
+    "continent": "North America"
+  },
+  {
+    "name": "Tiger",
+    "continent": "Asia"
+  },
+  {
+    "name": "Anaconda",
+    "continent": "South America"
+  },
+  {
+    "name": "Wolf",
+    "continent": "Europe"
+  },
+  {
+    "name": "Elephant",
+    "continent": "Africa"
+  },
+  {
+    "name": "Arctic Fox",
+    "continent": "Antarctica"
+  },
+  {
+    "name": "Kookaburra",
+    "continent": "Australia"
+  },
+  {
+    "name": "Bison",
+    "continent": "North America"
+  },
+  {
+    "name": "Red Panda",
+    "continent": "Asia"
+  },
+  {
+    "name": "Jaguar",
+    "continent": "South America"
+  },
+  {
+    "name": "Brown Bear",
+    "continent": "Europe"
+  },
+  {
+    "name": "Hippopotamus",
+    "continent": "Africa"
+  },
+  {
+    "name": "Weddell Seal",
+    "continent": "Antarctica"
+  },
+  {
+    "name": "Platypus",
+    "continent": "Australia"
+  },
+  {
+    "name": "Raccoon",
+    "continent": "North America"
+  },
+  {
+    "name": "Snow Leopard",
+    "continent": "Asia"
+  },
+  {
+    "name": "Sloth",
+    "continent": "South America"
+  },
+  {
+    "name": "Hedgehog",
+    "continent": "Europe"
+  },
+  {
+    "name": "Rhino",
+    "continent": "Africa"
+  },
+  {
+    "name": "Adélie Penguin",
+    "continent": "Antarctica"
+  },
+  {
+    "name": "Wallaby",
+    "continent": "Australia"
+  },
+  {
+    "name": "American Alligator",
+    "continent": "North America"
+  },
+  {
+    "name": "Snow Monkey",
+    "continent": "Asia"
+  },
+  {
+    "name": "Tapir",
+    "continent": "South America"
+  },
+  {
+    "name": "Moose",
+    "continent": "Europe"
+  },
+  {
+    "name": "Gorilla",
+    "continent": "Africa"
+  },
+  {
+    "name": "Emperor Penguin",
+    "continent": "Antarctica"
+  },
+  {
+    "name": "Wombat",
+    "continent": "Australia"
+  },
+  {
+    "name": "Bald Eagle",
+    "continent": "North America"
+  },
+  {
+    "name": "Red Panda",
+    "continent": "Asia"
+  },
+  {
+    "name": "Capuchin Monkey",
+    "continent": "South America"
+  },
+  {
+    "name": "Brown Bear",
+    "continent": "Europe"
+  },
+  {
+    "name": "Hippopotamus",
+    "continent": "Africa"
+  },
+  {
+    "name": "Weddell Seal",
+    "continent": "Antarctica"
+  },
+  {
+    "name": "Platypus",
+    "continent": "Australia"
+  },
+  {
+    "name": "Raccoon",
+    "continent": "North America"
+  },
+  {
+    "name": "Snow Leopard",
+    "continent": "Asia"
+  },
+  {
+    "name": "Sloth",
+    "continent": "South America"
+  },
+  {
+    "name": "Hedgehog",
+    "continent": "Europe"
+  },
+  {
+    "name": "Rhino",
+    "continent": "Africa"
+  },
+  {
+    "name": "Adélie Penguin",
+    "continent": "Antarctica"
+  },
+  {
+    "name": "Wallaby",
+    "continent": "Australia"
+  },
+  {
+    "name": "American Alligator",
+    "continent": "North America"
+  },
+  {
+    "name": "Snow Monkey",
+    "continent": "Asia"
+  },
+  {
+    "name": "Tapir",
+    "continent": "South America"
+  },
+  {
+    "name": "Moose",
+    "continent": "Europe"
+  }
+]
